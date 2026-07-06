@@ -1,5 +1,3 @@
-package day1;
-
 public class Solution {
 
         public int numWaterBottles(int numBottles, int numExchange) {
